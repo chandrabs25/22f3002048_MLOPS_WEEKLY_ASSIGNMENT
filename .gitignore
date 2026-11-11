@@ -1,1 +1,8 @@
 /iris.csv
+
+.venv*/
+__pycache__/
+/mlflow.db*
+/mlruns/
+/mlartifacts/
+/artifacts/
