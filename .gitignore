@@ -3,3 +3,5 @@
 .venv-week3/
 __pycache__/
 feature_repo/data/
+
+/artifacts/iris_feast_model.joblib
