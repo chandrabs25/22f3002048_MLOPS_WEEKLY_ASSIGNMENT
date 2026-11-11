@@ -1,1 +1,5 @@
 /iris.csv
+
+.venv-week3/
+__pycache__/
+feature_repo/data/
